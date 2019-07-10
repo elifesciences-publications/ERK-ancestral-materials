@@ -2,11 +2,7 @@
 
 This site archives trajectory data, scripts, and supplementary figures for the following publication:
 
-Dajun Sang, Sudarshan Pinglay, Rafal P. Wiewiora, Myvizhi Esai Selvan, Hua Jane Lou, John D. Chodera, Benjamin Turk, Zeynep H. Gümüş and Liam J. Holt
-
-**Ancestral reconstruction reveals mechanisms of ERK regulatory evolution**
-
-DOI: 
+Dajun Sang, Sudarshan Pinglay, Rafal P. Wiewiora, Myvizhi Esai Selvan, Hua Jane Lou, John D. Chodera, Benjamin Turk, Zeynep H. Gümüş and Liam J. Holt, "Ancestral reconstruction reveals mechanisms of ERK regulatory evolution". eLife, 2019. http://dx.doi.org/10.7554/eLife.38805
 
 Complete Folding@home simulation data analyzed for this publication is available via the [Open Science Framework](https://osf.io/dp4cb/).
 
